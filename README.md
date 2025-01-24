@@ -1,5 +1,5 @@
 # To-Do-List
 Teammates:
-Abdullah(Leader) - UI/UX
-Virshin - Javascript
-Sudarshan - Advance functionality
+Aachal Gupta(Leader) - UI/UX
+Arohi  - Javascript
+Zeba - Advance functionality
